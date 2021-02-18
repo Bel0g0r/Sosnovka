@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sushitime/static/css/main.3649f681.chunk.css",
-    "main.js": "/sushitime/static/js/main.d8abcf04.chunk.js",
-    "main.js.map": "/sushitime/static/js/main.d8abcf04.chunk.js.map",
-    "runtime-main.js": "/sushitime/static/js/runtime-main.a1cde225.js",
-    "runtime-main.js.map": "/sushitime/static/js/runtime-main.a1cde225.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/sushitime/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.140d579a.chunk.js": "/sushitime/static/js/2.140d579a.chunk.js",
-    "static/js/2.140d579a.chunk.js.map": "/sushitime/static/js/2.140d579a.chunk.js.map",
-    "index.html": "/sushitime/index.html",
-    "precache-manifest.13d32574f267841f40c95427d3c09cf3.js": "/sushitime/precache-manifest.13d32574f267841f40c95427d3c09cf3.js",
-    "service-worker.js": "/sushitime/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/sushitime/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.3649f681.chunk.css.map": "/sushitime/static/css/main.3649f681.chunk.css.map",
-    "static/js/2.140d579a.chunk.js.LICENSE.txt": "/sushitime/static/js/2.140d579a.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/sushitime/static/media/persik.4e1ec840.png"
+    "main.css": "/sosnovka/static/css/main.3649f681.chunk.css",
+    "main.js": "/sosnovka/static/js/main.d8abcf04.chunk.js",
+    "main.js.map": "/sosnovka/static/js/main.d8abcf04.chunk.js.map",
+    "runtime-main.js": "/sosnovka/static/js/runtime-main.fe50e826.js",
+    "runtime-main.js.map": "/sosnovka/static/js/runtime-main.fe50e826.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/sosnovka/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.0b035b6b.chunk.js": "/sosnovka/static/js/2.0b035b6b.chunk.js",
+    "static/js/2.0b035b6b.chunk.js.map": "/sosnovka/static/js/2.0b035b6b.chunk.js.map",
+    "index.html": "/sosnovka/index.html",
+    "precache-manifest.9921b5b8124b679d85b058e8d37fb05a.js": "/sosnovka/precache-manifest.9921b5b8124b679d85b058e8d37fb05a.js",
+    "service-worker.js": "/sosnovka/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/sosnovka/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.3649f681.chunk.css.map": "/sosnovka/static/css/main.3649f681.chunk.css.map",
+    "static/js/2.0b035b6b.chunk.js.LICENSE.txt": "/sosnovka/static/js/2.0b035b6b.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/sosnovka/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cde225.js",
+    "static/js/runtime-main.fe50e826.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.140d579a.chunk.js",
+    "static/js/2.0b035b6b.chunk.js",
     "static/css/main.3649f681.chunk.css",
     "static/js/main.d8abcf04.chunk.js"
   ]
