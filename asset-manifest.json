@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sosnovka.github.io/static/css/main.3649f681.chunk.css",
-    "main.js": "/sosnovka.github.io/static/js/main.d8abcf04.chunk.js",
-    "main.js.map": "/sosnovka.github.io/static/js/main.d8abcf04.chunk.js.map",
+    "main.css": "/sosnovka.github.io/static/css/main.9a3f1474.chunk.css",
+    "main.js": "/sosnovka.github.io/static/js/main.c328d279.chunk.js",
+    "main.js.map": "/sosnovka.github.io/static/js/main.c328d279.chunk.js.map",
     "runtime-main.js": "/sosnovka.github.io/static/js/runtime-main.a81ddd85.js",
     "runtime-main.js.map": "/sosnovka.github.io/static/js/runtime-main.a81ddd85.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/sosnovka.github.io/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.1203311c.chunk.js": "/sosnovka.github.io/static/js/2.1203311c.chunk.js",
-    "static/js/2.1203311c.chunk.js.map": "/sosnovka.github.io/static/js/2.1203311c.chunk.js.map",
+    "static/js/2.9d258533.chunk.js": "/sosnovka.github.io/static/js/2.9d258533.chunk.js",
+    "static/js/2.9d258533.chunk.js.map": "/sosnovka.github.io/static/js/2.9d258533.chunk.js.map",
     "index.html": "/sosnovka.github.io/index.html",
-    "precache-manifest.b212231f2741a97ab4d6e042fbc68a7a.js": "/sosnovka.github.io/precache-manifest.b212231f2741a97ab4d6e042fbc68a7a.js",
+    "precache-manifest.6f43a34954c087899e4e09f518459a0c.js": "/sosnovka.github.io/precache-manifest.6f43a34954c087899e4e09f518459a0c.js",
     "service-worker.js": "/sosnovka.github.io/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/sosnovka.github.io/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.3649f681.chunk.css.map": "/sosnovka.github.io/static/css/main.3649f681.chunk.css.map",
-    "static/js/2.1203311c.chunk.js.LICENSE.txt": "/sosnovka.github.io/static/js/2.1203311c.chunk.js.LICENSE.txt",
+    "static/css/main.9a3f1474.chunk.css.map": "/sosnovka.github.io/static/css/main.9a3f1474.chunk.css.map",
+    "static/js/2.9d258533.chunk.js.LICENSE.txt": "/sosnovka.github.io/static/js/2.9d258533.chunk.js.LICENSE.txt",
     "static/media/persik.png": "/sosnovka.github.io/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a81ddd85.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.1203311c.chunk.js",
-    "static/css/main.3649f681.chunk.css",
-    "static/js/main.d8abcf04.chunk.js"
+    "static/js/2.9d258533.chunk.js",
+    "static/css/main.9a3f1474.chunk.css",
+    "static/js/main.c328d279.chunk.js"
   ]
 }
